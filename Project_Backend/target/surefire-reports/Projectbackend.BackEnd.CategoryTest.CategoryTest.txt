@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Projectbackend.BackEnd.CategoryTest.CategoryTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 3.485 sec

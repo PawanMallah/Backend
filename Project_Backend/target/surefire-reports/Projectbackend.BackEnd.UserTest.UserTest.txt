@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Projectbackend.BackEnd.UserTest.UserTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 6, Time elapsed: 0.105 sec

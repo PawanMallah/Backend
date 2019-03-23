@@ -1,0 +1,15 @@
+Projectbackend\Project_Backend\App.class
+Projectbackend\pojo\Product.class
+Projectbackend\BackEnd\App.class
+Projectbackend\dao\ProductDAO.class
+Projectbackend\dao\UserDAO.class
+Projectbackend\pojo\Supplier.class
+Projectbackend\dao\SupplierDAO.class
+Projectbackend\dao\SupplierDAOImpl.class
+Projectbackend\pojo\User.class
+Projectbackend\dao\UserDAOImpl.class
+Projectbackend\pojo\Category.class
+Projectbackend\dao\ProductDAOImpl.class
+Projectbackend\dao\CategoryDAOImpl.class
+Projectbackend\Config\DBConfig.class
+Projectbackend\dao\CategoryDAO.class
